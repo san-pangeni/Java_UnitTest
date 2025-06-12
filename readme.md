@@ -1,7 +1,9 @@
-Java WAR Card Game
+JAVA WAR CARD GAME: 
 This project is a simple, automated version of the classic card game WAR, built entirely in Java. It demonstrates basic object-oriented programming principles by simulating a complete game from shuffling and dealing to determining the final winner.
 
-How It Works
+
+
+HOW IT WORKS: 
 The game logic is organized into four main classes:
 
 Card.java: Represents a single playing card with a name (e.g., "Ace of Spades") and a value (2-14).
@@ -14,7 +16,9 @@ App.java: The main application class that contains the main method to run the ga
 
 The application runs automatically in the console, playing 26 rounds and declaring a winner based on the final score.
 
-How to Run
+
+
+HOW TO RUN:
 Clone or download the repository.
 
 Open the project in a Java IDE like Eclipse or IntelliJ.
